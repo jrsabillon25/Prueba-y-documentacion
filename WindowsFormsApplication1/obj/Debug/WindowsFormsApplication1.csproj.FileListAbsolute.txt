@@ -1,0 +1,493 @@
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\gabri\Desktop\Desarrollo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Carlos 10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\Nueva carpeta (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\9\Desktop\Programa, Base y Guia\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\9\Desktop\Programa, Base y Guia\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\9\Desktop\Programa, Base y Guia\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Carlos 10\Desktop\matricula\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Martes 3, 11pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Martes 3, 11pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Martes 3, 11pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 12pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Carlos 10\Desktop\matricula\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 4, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 3am\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 1pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 5, 2pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 5pm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 8pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 6, 9pm(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 1am(con preguntas)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 3am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Wed 7, 5am(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 10, 10;00pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambiarPrecio.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cobranza.resources
+C:\Users\Marcos\Desktop\Copia desarrollo miercoles 1;30pm\form\Copia seguridad Martes 12, 10;36pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facturacion.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambiarPrecio.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cobranza.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facturacion.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambiarPrecio.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cobranza.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facturacion.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\sql DESARROLLO\COPIA\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambiarPrecio.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cobranza.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facturacion.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Estephany Rivera\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Estephany Rivera\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Estephany Rivera\Desktop\Ins Jose cecilio del valle\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambiarPrecio.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cobranza.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facturacion.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Estephany Rivera\Downloads\Ins Jose cecilio del valle-diseño\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambiarPrecio.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cambioContraseña.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cobranza.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estados.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facturacion.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.matricula.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modificarAlumno.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.nuevaContraseña.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.primerIngreso.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pwdOlvidada.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reingresocs.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.secretaria.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transporte.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.admin.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.maestro.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Ins Jose cecilio del valle-diseño PPPP\Copia seguridad Martes 20, 10;30 pm(con preguntas y estados)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

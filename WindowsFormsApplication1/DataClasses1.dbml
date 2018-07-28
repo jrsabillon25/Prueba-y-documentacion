@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Inst_JoseCelilioValle" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-I0B14AK\SQLEXPRESS;Initial Catalog=Inst_JoseCelilioValle;Integrated Security=True" SettingsObjectName="WindowsFormsApplication1.Properties.Settings" SettingsPropertyName="Inst_JoseCelilioValleConnectionString3" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Alumno" Member="Alumno">
+    <Type Name="Alumno">
+      <Column Name="codigo_alumno" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="codigo_estado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_alumno" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="nombre_alumno" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="direccion_alumno" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fechaNac_alumno" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="genero_alumno" Type="System.String" DbType="VarChar(1)" CanBeNull="true" />
+      <Column Name="telefono_alumno" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="curso_iniciado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="instituto_procedencia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="lugarNacimiento_alumno" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="materiaRetrasada" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="materiaTPA" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Alumno_alumno_encargado" Member="alumno_encargado" ThisKey="codigo_alumno" OtherKey="codigo_alumno" Type="alumno_encargado" />
+      <Association Name="Alumno_detalle_boletaVenta" Member="detalle_boletaVenta" ThisKey="codigo_alumno" OtherKey="codigo_alumno" Type="detalle_boletaVenta" />
+      <Association Name="Estado_Alumno" Member="Estado" ThisKey="codigo_estado" OtherKey="codigo_estado" Type="Estado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Empleado" Member="Empleado">
+    <Type Name="Empleado">
+      <Column Name="codigo_empleado" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="codigo_puestoEmpleado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="codigo_estado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_empleado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="nombre_empleado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="telefono_empleado" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="telefono_emplaedoEmergencia" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="email_empleado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="direccion_empleado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="usr_empleado" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="pwd_empleado" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Association Name="Empleado_Buses" Member="Buses" ThisKey="codigo_empleado" OtherKey="codigo_empleado" Type="Buses" />
+      <Association Name="Empleado_Boleta_Venta" Member="Boleta_Venta" ThisKey="codigo_empleado" OtherKey="codigo_empleado" Type="Boleta_Venta" />
+      <Association Name="Estado_Empleado" Member="Estado" ThisKey="codigo_estado" OtherKey="codigo_estado" Type="Estado" IsForeignKey="true" />
+      <Association Name="Puesto_Empleado_Empleado" Member="Puesto_Empleado" ThisKey="codigo_puestoEmpleado" OtherKey="codigo_puestoEmpleado" Type="Puesto_Empleado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Estado" Member="Estado">
+    <Type Name="Estado">
+      <Column Name="codigo_estado" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion_estado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Association Name="Estado_Alumno" Member="Alumno" ThisKey="codigo_estado" OtherKey="codigo_estado" Type="Alumno" />
+      <Association Name="Estado_Empleado" Member="Empleado" ThisKey="codigo_estado" OtherKey="codigo_estado" Type="Empleado" />
+      <Association Name="Estado_Buses" Member="Buses" ThisKey="codigo_estado" OtherKey="codigo_estado" Type="Buses" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Puesto_Empleado" Member="Puesto_Empleado">
+    <Type Name="Puesto_Empleado">
+      <Column Name="codigo_puestoEmpleado" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion_puestoEmpleado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Puesto_Empleado_Empleado" Member="Empleado" ThisKey="codigo_puestoEmpleado" OtherKey="codigo_puestoEmpleado" Type="Empleado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.alumno_encargado" Member="alumno_encargado">
+    <Type Name="alumno_encargado">
+      <Column Name="codigo_alumno" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="codigo_encargado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Alumno_alumno_encargado" Member="Alumno" ThisKey="codigo_alumno" OtherKey="codigo_alumno" Type="Alumno" IsForeignKey="true" />
+      <Association Name="Encargado_alumno_encargado" Member="Encargado" ThisKey="codigo_encargado" OtherKey="codigo_encargado" Type="Encargado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Encargado" Member="Encargado">
+    <Type Name="Encargado">
+      <Column Name="codigo_encargado" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_encargado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nombre_encargado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="lugar_trabajo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="telefono_encargado" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="celular_encargado" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="email_encargado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="direccion_encargado" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Encargado_alumno_encargado" Member="alumno_encargado" ThisKey="codigo_encargado" OtherKey="codigo_encargado" Type="alumno_encargado" />
+      <Association Name="Encargado_Boleta_Venta" Member="Boleta_Venta" ThisKey="codigo_encargado" OtherKey="codigo_encargado" Type="Boleta_Venta" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Buses" Member="Buses">
+    <Type Name="Buses">
+      <Column Name="codigo_bus" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="codigo_estado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="codigo_ruta" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="codigo_empleado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="numero_bus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="placa_bus" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Association Name="Empleado_Buses" Member="Empleado" ThisKey="codigo_empleado" OtherKey="codigo_empleado" Type="Empleado" IsForeignKey="true" />
+      <Association Name="Estado_Buses" Member="Estado" ThisKey="codigo_estado" OtherKey="codigo_estado" Type="Estado" IsForeignKey="true" />
+      <Association Name="Ruta_Buses" Member="Ruta" ThisKey="codigo_ruta" OtherKey="codigo_ruta" Type="Ruta" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ruta" Member="Ruta">
+    <Type Name="Ruta">
+      <Column Name="codigo_ruta" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion_ruta" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Ruta_Buses" Member="Buses" ThisKey="codigo_ruta" OtherKey="codigo_ruta" Type="Buses" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Boleta_Venta" Member="Boleta_Venta">
+    <Type Name="Boleta_Venta">
+      <Column Name="codigo_boletaVenta" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="codigo_encargado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="codigo_formaPago" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="codigo_empleado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fecha_boletaVenta" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="rtn" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Boleta_Venta_detalle_boletaVenta" Member="detalle_boletaVenta" ThisKey="codigo_boletaVenta" OtherKey="codigo_boletaVenta" Type="detalle_boletaVenta" />
+      <Association Name="Encargado_Boleta_Venta" Member="Encargado" ThisKey="codigo_encargado" OtherKey="codigo_encargado" Type="Encargado" IsForeignKey="true" />
+      <Association Name="Empleado_Boleta_Venta" Member="Empleado" ThisKey="codigo_empleado" OtherKey="codigo_empleado" Type="Empleado" IsForeignKey="true" />
+      <Association Name="Forma_Pago_Boleta_Venta" Member="Forma_Pago" ThisKey="codigo_formaPago" OtherKey="codigo_formaPago" Type="Forma_Pago" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.detalle_boletaVenta" Member="detalle_boletaVenta">
+    <Type Name="detalle_boletaVenta">
+      <Column Name="codigo_boletaVenta" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="codigo_alumno" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="codigo_servicio" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="codigo_PeriodoGrado" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="precio_servicio" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Alumno_detalle_boletaVenta" Member="Alumno" ThisKey="codigo_alumno" OtherKey="codigo_alumno" Type="Alumno" IsForeignKey="true" />
+      <Association Name="Boleta_Venta_detalle_boletaVenta" Member="Boleta_Venta" ThisKey="codigo_boletaVenta" OtherKey="codigo_boletaVenta" Type="Boleta_Venta" IsForeignKey="true" />
+      <Association Name="Tipo_ServicioPaga_detalle_boletaVenta" Member="Tipo_ServicioPaga" ThisKey="codigo_servicio" OtherKey="codigo_servicio" Type="Tipo_ServicioPaga" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tipo_ServicioPaga" Member="Tipo_ServicioPaga">
+    <Type Name="Tipo_ServicioPaga">
+      <Column Name="codigo_servicio" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion_servicio" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="precio_servicio" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Tipo_ServicioPaga_detalle_boletaVenta" Member="detalle_boletaVenta" ThisKey="codigo_servicio" OtherKey="codigo_servicio" Type="detalle_boletaVenta" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Forma_Pago" Member="Forma_Pago">
+    <Type Name="Forma_Pago">
+      <Column Name="codigo_formaPago" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion_formaPago" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Forma_Pago_Boleta_Venta" Member="Boleta_Venta" ThisKey="codigo_formaPago" OtherKey="codigo_formaPago" Type="Boleta_Venta" />
+    </Type>
+  </Table>
+  <Function Name="dbo.ActualizarMatriculaTraslado" Method="ActualizarMatriculaTraslado">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="instituto" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="retrasada" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="tpa" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ActualizarPeriodoGrado" Method="ActualizarPeriodoGrado">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="descripcion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="grado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="seccion" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ingresarEncargado" Method="ingresarEncargado">
+    <Parameter Name="idEncargado" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="nombreEncargado" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="lugarTrabajo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="telefono" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="celular" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="direccion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ingresarEncargado2" Method="ingresarEncargado2">
+    <Parameter Name="idEncargado" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="nombreEncargado" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="lugarTrabajo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="telefono" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="celular" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="direccion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertarAlumnoEncargado" Method="insertarAlumnoEncargado">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertarIDruta" Method="insertarIDruta">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertarruta" Method="insertarruta">
+    <Parameter Name="descripcion" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertarbuses" Method="insertarbuses">
+    <Parameter Name="estado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ruta" Type="System.Int32" DbType="Int" />
+    <Parameter Name="codigoE" Type="System.Int32" DbType="Int" />
+    <Parameter Name="numbus" Type="System.Int32" DbType="Int" />
+    <Parameter Name="placaB" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertarAlumnoEncargado2" Method="insertarAlumnoEncargado2">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ingresarAlumnos" Method="ingresarAlumnos">
+    <Parameter Name="idAlumno" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="nombreAlumno" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="codigoEstado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="fechaNac" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="direccionAlumno" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="lugarNacimiento" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="generoAlumno" Type="System.String" DbType="VarChar(1)" />
+    <Parameter Name="telefonoAlumno" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="cursoInicial" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="instituto" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="materiaRetrasada" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="materiaTPA" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ingresarPeriodosGrados" Method="ingresarPeriodosGrados">
+    <Parameter Name="descripcion" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="grado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="seccion" Type="System.Int32" DbType="Int" />
+    <Parameter Name="aula" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insertarGradoAlumno" Method="insertarGradoAlumno">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.EX_estado" Method="EX_estado">
+    <Parameter Name="EST" Parameter="eST" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Usr" Parameter="usr" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ingresarEmpleados" Method="ingresarEmpleados">
+    <Parameter Name="idEmpleado" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="nombreEmpleado" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="codigopuestoEmpleado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="codigoEstado" Type="System.Int32" DbType="Int" />
+    <Parameter Name="correoEmpleado" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="telefonoEmpleado" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="telefonoEmergenciaEmpleado" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="direccionEmpleado" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="usuarioEmpleado" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="contraseñaEmpleado" Type="System.String" DbType="VarChar(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.modificarPrecio" Method="modificarPrecio">
+    <Parameter Name="codigo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="precio" Type="System.Double" DbType="Float" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
